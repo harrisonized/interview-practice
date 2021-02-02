@@ -1,3 +1,4 @@
-# Interview Practice
+# Questions
 
-Most of the questions are found [here](https://simpleprogrammer.com/programming-interview-questions/).
+1. How is a linked list implemented?
+2. How do you reverse a linked list?
